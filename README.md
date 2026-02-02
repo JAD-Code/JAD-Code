@@ -53,7 +53,7 @@ Focused on clean code and turning designs into production-ready applications.
 ---
 
 ## 📫 Contact
-📧 (mailto:jadcode9@gmail.com) 
+📧 jadcode9@gmail.com
 🌐 Portfolio: https://jad-code.vercel.app  
 
 ---
